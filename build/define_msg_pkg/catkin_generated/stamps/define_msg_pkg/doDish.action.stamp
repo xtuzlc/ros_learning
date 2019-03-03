@@ -1,0 +1,8 @@
+#Define the goal
+uint32 dishwasher_id
+---
+#Define the result
+uint32 total_dishes_cleaned
+---
+#define a feedback message
+float64 percent_complete

@@ -1,0 +1,2 @@
+set(action_tutorials_MESSAGE_FILES "/home/lmf/ross/devel/share/action_tutorials/msg/DoDishesAction.msg;/home/lmf/ross/devel/share/action_tutorials/msg/DoDishesActionGoal.msg;/home/lmf/ross/devel/share/action_tutorials/msg/DoDishesActionResult.msg;/home/lmf/ross/devel/share/action_tutorials/msg/DoDishesActionFeedback.msg;/home/lmf/ross/devel/share/action_tutorials/msg/DoDishesGoal.msg;/home/lmf/ross/devel/share/action_tutorials/msg/DoDishesResult.msg;/home/lmf/ross/devel/share/action_tutorials/msg/DoDishesFeedback.msg")
+set(action_tutorials_SERVICE_FILES "")

@@ -1,0 +1,2 @@
+action_tutorials:define_msg_pkg:server_pkg:topic_pkg
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/lmf/ross/devel -DCMAKE_INSTALL_PREFIX=/home/lmf/ross/install
